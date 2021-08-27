@@ -1,16 +1,16 @@
-
 built by [distriqt //](https://distriqt.com)
 
 ---
 
-This is a wrapper around the `com.android.tools.build:manifest-merger` library allowing access to the library using the packaged `jar` on the command line
+## Android Manifest Merger
+
+This is a wrapper around the [`com.android.tools.build:manifest-merger` library](https://mvnrepository.com/artifact/com.android.tools.build/manifest-merger) allowing access to the library using the packaged `jar` on the command line
 
 It allows you to manually merge Android manifest files.
 
-
 ---
 
-### Usage 
+### Usage
 
 ```
 java -jar manifest-merger.jar
@@ -22,19 +22,17 @@ java -jar manifest-merger.jar
     --placeholder [name=value]
     --out [path of the output file]
     --remove-tools-declarations
-``` 
-
+```
 
 Eg:
 
 ```
-java -jar manifest-merger.jar 
+java -jar manifest-merger.jar
     --main AndroidManifest.xml
     --libs libraryA/AndroidManifest.xml:libraryB/AndroidManifest.xml
-``` 
+```
 
-
---- 
+---
 
 ### Build
 
