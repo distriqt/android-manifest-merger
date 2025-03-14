@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="manifest-merger:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.distriqt.android" external.system.module.type="sourceSet" external.system.module.version="31.9.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="manifest-merger.main" />
+    <orderEntry type="library" name="Gradle: com.android.tools.build:manifest-merger:31.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:common:31.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.tools:annotations:31.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:32.0.1-jre" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.checkerframework:checker-qual:3.33.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.18.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:2.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools:sdk-common:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools:sdklib:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.code.gson:gson:2.10.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.java.dev.jna:jna-platform:5.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools.layoutlib:layoutlib-api:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools.analytics-library:shared:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools.ddms:ddmlib:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:2.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-runtime:2.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools.build:aapt2-proto:8.9.0-12782657" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.protobuf:protobuf-java:3.24.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.bouncycastle:bcpkix-jdk18on:1.79" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.bouncycastle:bcprov-jdk18on:1.79" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools:repository:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools:dvlib:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-compress:1.21" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpmime:4.5.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.java.dev.jna:jna:5.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.android.tools.analytics-library:protos:31.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jvnet.staxex:stax-ex:1.8.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:txw2:2.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.istack:istack-commons-runtime:3.0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.xml.fastinfoset:FastInfoset:1.2.16" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: jakarta.activation:jakarta.activation-api:1.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.bouncycastle:bcutil-jdk18on:1.79" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.jimfs:jimfs:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.activation:javax.activation:1.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpclient:4.5.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="manifest-merger.main" />
+</module>

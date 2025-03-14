@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/manifest-merger.iml" filepath="$PROJECT_DIR$/.idea/manifest-merger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manifest-merger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/manifest-merger.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/manifest-merger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/manifest-merger.test.iml" />
+    </modules>
+  </component>
+</project>
