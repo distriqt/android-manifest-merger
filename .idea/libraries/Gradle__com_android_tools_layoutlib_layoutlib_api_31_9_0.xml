@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools.layoutlib:layoutlib-api:31.9.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.android.tools.layoutlib" artifactId="layoutlib-api" version="31.9.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/31.9.0/a8d6069382f69d0c8460704a3b55d622c519c7d3/layoutlib-api-31.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/31.9.0/c8b59724736c1e36b6c49faea3b814a85aebf1fd/layoutlib-api-31.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

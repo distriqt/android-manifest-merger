@@ -36,10 +36,16 @@ java -jar manifest-merger.jar
 
 ### Build
 
-This is a gradle project and includes an IntelliJ project for editing
+This is a gradle project and includes an IntelliJ project for editing.
 
-To build:
+To build, create a local.properties file in the root of the project with the following:
+
+```properties
+sdk.dir=/path/to/android/sdk
+```
+
+Then run:
 
 ```
-./gradle build
+./gradlew build
 ```
