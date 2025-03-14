@@ -1,21 +1,17 @@
 package com.distriqt.android;
 
-import com.android.manifmerger.Merger;
-
-import java.io.FileNotFoundException;
-
 public class ManifestMerger
 {
-	public static void main(String[] args)
+	public static void main( String[] args )
 	{
 		try
 		{
-			System.exit(new Merger().process(args));
+			System.exit( new CustomMerger().process( args ) );
 		}
-		catch (FileNotFoundException e)
+		catch (Exception e)
 		{
-			System.exit(1);
+			System.exit( 1 );
 		}
-		System.exit(0);
+		System.exit( 0 );
 	}
 }
